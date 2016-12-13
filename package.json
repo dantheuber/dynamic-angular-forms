@@ -1,0 +1,24 @@
+{
+  "name": "dynamic-angular-forms",
+  "version": "1.0.0",
+  "description": "dynamic angular forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dantheuber/dynamic-angular-forms.git"
+  },
+  "keywords": [
+    "angular",
+    "forms",
+    "dynamic"
+  ],
+  "author": "Daniel Essig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dantheuber/dynamic-angular-forms/issues"
+  },
+  "homepage": "https://github.com/dantheuber/dynamic-angular-forms#readme"
+}
